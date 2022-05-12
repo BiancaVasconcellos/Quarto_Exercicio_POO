@@ -1,0 +1,8 @@
+8 Faça uma pesquisa sobre o fenômeno conhecido como Deadly Diamond of Death e
+ escreva cinco linhas sobre ele. Faça um diagrama de classes em que ele aparece.
+
+É uma ambiguidade que pode surgir como consequência de permitir herança múltipla. 
+Em Java, no entanto, herança múltipla não é permitida para classes, apenas para interfaces, 
+e estas não contêm estado.
+Java simplesmente não permite este caso. ou seja, não permitirá que você herde de duas hierarquias de superclasses 
+simultaneamente. 

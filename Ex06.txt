@@ -1,0 +1,6 @@
+6. Considere a classe Ornitorrinco. Embora sejam considerados oviparos, as fêmeas
+produzem leite e poderiam ter características de interesse já definidas na classe
+mamífero. Responda: De qual classe Ornitorrinco deveria herdar?
+
+A classe Ornitorrinco deveria herdar a classe oviparos, pois contem suas características.
+
