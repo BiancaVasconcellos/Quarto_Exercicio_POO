@@ -1,8 +1,7 @@
-8 Faça uma pesquisa sobre o fenômeno conhecido como Deadly Diamond of Death e
+Faça uma pesquisa sobre o fenômeno conhecido como Deadly Diamond of Death e
  escreva cinco linhas sobre ele. Faça um diagrama de classes em que ele aparece.
 
-É uma ambiguidade que pode surgir como consequência de permitir herança múltipla. 
-Em Java, no entanto, herança múltipla não é permitida para classes, apenas para interfaces, 
-e estas não contêm estado.
-Java simplesmente não permite este caso. ou seja, não permitirá que você herde de duas hierarquias de superclasses 
-simultaneamente. 
+Na programação orientada a objetos, a herança permite que novos objetos assumam as
+propriedades de objetos existentes.
+É o mecanismo de basear um objeto ou classe em outro objeto conhecido como herança
+baseada em protótipo ou classe, que é conhecida como herança baseada em classe.
